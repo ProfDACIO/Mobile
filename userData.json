@@ -1,0 +1,9 @@
+{
+  "nome":"Seu nome aqui",
+  "user-type": "usuário",
+  "unidade": "EPTEC",
+  "tarefas":[
+      { "id": "1", "title": "Estudar para a Prova" },
+      { "id": "2", "title": "Realizar o QUIZ" }
+  ]
+}
