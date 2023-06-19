@@ -1,11 +1,11 @@
 {
-  "nome":"Seu nome aqui",
+  "nome":"PROF DACIO",
   "user-type": "usuário",
   "unidade": "EPTEC",
-  "tarefas":[
-      { "id": "1", "title": "Estudar para a Prova" },
-      { "id": "2", "title": "Realizar o QUIZ" },
-      { "id": "3", "title": "Atenção Alunos" },
-      { "id": "4", "title": "A AULA ESTÁ ACONTECENDO" },
+  "produtos":[
+      { "id": "1", "title": "Agua Mineral" },
+      { "id": "2", "title": "Passatempo" },
+      { "id": "3", "title": "Orégano" },
+      { "id": "4", "title": "Coca-Cola" },
   ]
 }
