@@ -2,11 +2,11 @@
   "nome":"PROF DACIO",
   "user-type": "usuário",
   "unidade": "EPTEC",
-  "produtos":[
-      { "id": "1", "title": "Agua Mineral" },
-      { "id": "2", "title": "Passatempo" },
-      { "id": "3", "title": "Orégano" },
-      { "id": "4", "title": "Nissin Cup Noodles" },
+  "tarefas":[
+      { "id": "1", "title": "Criar o App" },
+      { "id": "2", "title": "Estudar Para a Prova" },
+      { "id": "3", "title": "Slides " },
+      { "id": "4", "title": "Jogar CS" },
       { "id": "5", "title": "Coca-Cola" }
   ]
 }
