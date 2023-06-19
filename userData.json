@@ -2,10 +2,10 @@
   "nome":"PROF DACIO",
   "user-type": "usuário",
   "unidade": "EPTEC",
-  "produtos":[
+  "tarefas":[
       { "id": "1", "title": "Agua Mineral" },
       { "id": "2", "title": "Passatempo" },
       { "id": "3", "title": "Orégano" },
-      { "id": "4", "title": "Coca-Cola" },
+      { "id": "4", "title": "Coca-Cola" }
   ]
 }
